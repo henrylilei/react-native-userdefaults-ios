@@ -31,8 +31,5 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^2.9.25"
-  },
-  "peerDependencies": {
-    "react-native": ">= 0.4.4 < 1"
   }
 }
